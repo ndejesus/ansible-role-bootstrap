@@ -24,6 +24,7 @@ bootstrap_os_family_map:
     - Gentoo
     - Funtoo
   RedHat:
+    - Red Hat
     - RedHat
     - Fedora
     - CentOS
